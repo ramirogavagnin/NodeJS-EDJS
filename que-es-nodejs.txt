@@ -1,0 +1,11 @@
+
+¿Qué es node.js ?
+Node.js es un entorno de ejecucion para javascript
+
+¿Qué es un entorno de ejecución?
+
+Un entorno de ejecucion es una capa encima del sistema operativo que ejecuta una pieza de software.
+
+¿Qué nos permite?
+
+Usar javascript para el servidor
